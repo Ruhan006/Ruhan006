@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Sarwar Ahmed Ruhan
-#### Data analyst | Research assistant | Undergraduate Student | SUST
+#### Data analyst | Research assistant | Undergraduate Student | Economics | SUST
 Dedicated Economics student with a growing proficiency in Excel and R. Enthusiastic about applying economic theory to real-world problems, with developing research skills and a strong commitment to teamwork and effective time management.
 
 Skills: R Programming | MS Excel | Canva
